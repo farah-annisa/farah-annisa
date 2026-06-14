@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Farah Annisa 👋
 
-<!--
-**farah-annisa/farah-annisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Data Science student @ Universiti Malaya  
+💼 Data Analyst | Sales Analyst | Open to opportunities  
+📍 Malaysia
 
-Here are some ideas to get you started:
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+| Project | Tools | Type |
+|---|---|---|
+| [Blood Supply Forecasting Dashboard](#) | Python, Prophet, Streamlit | Time-Series Forecasting |
+| [Sales Agent Performance Dashboard](#) | Python, pandas, Power BI | Sales Analytics |
+| [Adverse Event Prediction — BioBERT](#) | Python, BioBERT, HuggingFace | NLP / ML |
+
+## 📫 Contact
+- 📧 farahisham31@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/farah-norhisham-88a3ab390)
