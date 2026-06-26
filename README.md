@@ -17,6 +17,8 @@
 | [Blood Supply Forecasting Dashboard](#) | Python, Prophet, Streamlit | Time-Series Forecasting |
 | [Sales Agent Performance Dashboard](#) | Python, pandas, Power BI | Sales Analytics |
 | [Adverse Event Prediction — BioBERT](#) | Python, BioBERT, HuggingFace | NLP / ML |
+| [FinSight Bank Analytics](#) | Excel · Pivot Tables · Conditional Formatting | Banking Analytics |
+
 
 ## 📫 Contact
 - 📧 farahisham31@gmail.com
